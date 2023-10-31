@@ -14,7 +14,7 @@ MIFC stands for **M**utual **I**nformation **F**unctional **C**onnectivity. It w
 - **[AAL3](https://www.gin.cnrs.fr/en/tools/aal/)** for brain region labeling.
 
 ## Directory Structure
-There are two versions for the project. If you are reading this README.md without manually opening it then you are probably looking at the GitLab version. There is another version in the BMLabUnit02 Server where all the data lives.
+There are two versions for the project. If you are reading this README.md without manually opening it then you are probably looking at the GitLab version. There is another version in the BMLabUnit03 Server where all the data lives.
 
 ### 1. Git Version Structure
 Basically, the Git version only contains the code that I have written and the subject list for the study.
