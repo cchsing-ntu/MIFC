@@ -1,7 +1,8 @@
 # Welcome to the BML MIFC project :-D
 
-Created: 2022.03.02 by Jess CC Hsing
-Last Modified: 2023.11.08 by Jess CC Hsing
+2022.03.02 Created by Jess CC Hsing
+2023.11.08 Edited by Jess CC Hsing
+2024.03.20 Added descriptions for the new directories.
 
 This project is created by Jess Chih-Chia Hsing (邢芝嘉) - Twitter: @JessHsing - r08454015*(at)*ntu.edu.tw
 
@@ -19,6 +20,8 @@ There are two versions for the project. If you are reading this README.md withou
 
 ### 1. Data Structure
 Basically, the Git version only contains the code that I have written and the subject list for the study.
+- **00_resources:** Contains resouces that are needed for this project.
+  - **midbrain:** The midbrain ROI masks in MNI space that this study utilizes.
 - **01_tools:** Some tool codes that I use across the analysis.
 - **02_preprocessing:** Batch files and scripts that helps with the preprocessing.
 - **03_extract_signals:** Scripts that I use to convert the NIfTI files to MI files.
